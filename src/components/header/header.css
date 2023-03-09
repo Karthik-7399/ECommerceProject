@@ -1,0 +1,19 @@
+.navbar {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    text-align: center;
+   
+    background-color: rgb(90, 71, 33);
+    
+}
+
+.logo{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(98, 133, 61);
+    margin-top: 20px;
+
+}
